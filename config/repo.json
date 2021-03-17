@@ -1,0 +1,19 @@
+{
+ "country": "US",
+ "features": ["Communities", "ContactsToMultipleAccounts", "DebugApex"],
+ "settings": {
+   "chatterSettings": {
+     "enableChatter": true
+   },
+   "communitiesSettings": {
+     "enableNetworksEnabled": true
+   },
+   "languageSettings": {
+     "enableTranslationWorkbench": true
+   },
+   "lightningExperienceSettings": {
+    "enableS1DesktopEnabled": true
+   }
+ },
+ "orgName": "test"
+}

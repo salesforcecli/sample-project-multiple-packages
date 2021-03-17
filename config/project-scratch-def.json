@@ -1,0 +1,13 @@
+{
+  "orgName": "t.dvornik Company",
+  "edition": "Developer",
+  "features": ["Communities", "EnableSetPasswordInApi"],
+  "settings": {
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}
